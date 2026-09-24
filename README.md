@@ -52,6 +52,5 @@ The analysis was used to investigate product pricing, discounts, availability, s
 This project helped me strengthen my practical understanding of **SQL, data cleaning, exploratory data analysis, aggregation, filtering, and extracting insights from real-world datasets**.
 
 ## 🔗 Project Link
-[]
+[https://github.com/OKiranmai/Zepto-E-Commerce-Sales---Product-Analysis.git]
 
--❗Note - Dataset is too large for GitHub preview. Click Raw or download the file to view.
